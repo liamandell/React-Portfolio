@@ -18,7 +18,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-           Deer Park High School, Deer Park, TX
+            Deer park High School, Deer Park, Texas
           </h3>
           <p> High School Diploma</p>
         </VerticalTimelineElement>
@@ -29,14 +29,14 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            University of Houston, Rice University - Houston, TX
+            university of houston, Houston, Texas
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
             Bachelor's Degree
           </h4>
 
-          <p> Advertising</p>
+          <p> Computer Science</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -45,12 +45,12 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Assistant marketing Director - Student Program Board
+            
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Houston, TX
+            
           </h4>
-          <p>update</p>
+          .</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -60,13 +60,13 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            update
+            
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            update
+            
           </h4>
           <p>
-            update
+            
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
