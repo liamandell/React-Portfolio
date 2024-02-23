@@ -50,9 +50,8 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             
           </h4>
-          .</p>
+          
         </VerticalTimelineElement>
-
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2020 - present"
